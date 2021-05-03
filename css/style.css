@@ -1,0 +1,26 @@
+body{
+  background-color: lightblue;
+  color:red;
+}
+hr{
+  border-color: white;
+  border-style: none;
+  border-top-style:dotted;
+  border-width: 30px;
+  width: 20%;
+}
+h1,h3{
+  color: #28527a;
+}
+.me{
+  color: white;
+
+}
+#name{
+  color: black;
+  font-size: 100px;
+}
+img:hover{
+  background-color:black;
+  border-radius: 100%;
+}
